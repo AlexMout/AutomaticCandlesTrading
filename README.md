@@ -1,0 +1,2 @@
+# AutomaticCandlesTrading
+Cryptocurrencies charts 
